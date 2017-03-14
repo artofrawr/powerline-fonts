@@ -23,10 +23,10 @@ Personal collection of [Powerline-patched fonts](https://powerline.readthedocs.o
 
 ## Font List
 
-#### SF Mono Nerd Font
+#### SFMono
 San Francisco Mono typeface provided by Apple inside Xcode 8+. Please note that it is forbidden to use this typeface for your commercial project. The typeface is licensed to registered third-party developers for the design and development of applications for iOS, macOS and watchOS.
 
-#### Droid Sans Mono
+#### DroidSansMono
 https://fonts.google.com/specimen/Droid+Sans+Mono
 
 #### Inconsolata
