@@ -44,9 +44,7 @@ done < <(eval "$find_command")
 
 # copy fonts into osx font library
 font_dir="/Library/Fonts/NerdFonts"
-
 mkdir -pv "$font_dir"
-
 for file in "${files[@]}"; do
   filename=$(basename "$file")
   sudo cp -fv "${file}" "$font_dir/$filename"
