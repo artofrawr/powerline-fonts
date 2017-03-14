@@ -1,6 +1,7 @@
 # powerline-fonts
 
-A collection of [Powerline-patched fonts](https://powerline.readthedocs.org/en/master/installation.html#patched-fonts)/[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) that I use. All fonts have been created with the [Nerd Font Patcher](https://github.com/ryanoasis/nerd-fonts#font-patcher).
+A collection of [Powerline-patched fonts](https://powerline.readthedocs.org/en/master/installation.html#patched-fonts)/[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) that I use. 
+All fonts have been created with the [Nerd Font Patcher](https://github.com/ryanoasis/nerd-fonts#font-patcher).
 
 ## Installation
 
